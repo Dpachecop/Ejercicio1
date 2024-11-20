@@ -14,6 +14,7 @@ public class Main{
         gestorDescuento.realizarDescuento(DescuentoTreinta, 100);
         gestorDescuento.realizarDescuento(DecuentoCincuenta, 100);
         
+        
             
         }
 
